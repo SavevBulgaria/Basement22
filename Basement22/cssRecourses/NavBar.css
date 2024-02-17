@@ -1,0 +1,22 @@
+.navbar {
+    position: fixed;
+    top:0;
+    right:0;
+    left:0;
+    background-color: black;
+    height: 75px;
+    text-align: center;
+    word-spacing: 75px;
+    margin-top: auto;
+    
+}
+.tabLinks{
+    
+    font-size:Large;
+    font-family: cursive;
+    color:aliceblue;
+    text-decoration: none;
+    justify-content: center;
+    
+}
+

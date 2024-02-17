@@ -1,0 +1,35 @@
+.FooterContainer {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  height: 350px;
+  width: 100%;
+  background-color: black ;
+ 
+}
+.LeftSide {
+  color: white ;
+  font-family: "Times New Roman", Times, serif;
+  margin-left: auto !important;
+  float: left ;
+}
+
+.RightSide{
+    
+    margin-left: 30%;
+    color:white;
+}
+.pictureContainer{
+    float: right;
+    position: fixed;
+    color:white;
+    font-weight: bold;
+    bottom:0;   
+    right:0;
+}
+.picture{
+    height: 250px;
+    
+    margin-bottom: 40px;
+}
